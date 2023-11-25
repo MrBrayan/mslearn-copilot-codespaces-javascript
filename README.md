@@ -7,7 +7,7 @@ Explore how you can modify a JavaScript repository using code suggestions from G
 ## Requirements
 
 1. Enable your [GitHub Copilot service](https://github.com/github-copilot/signup)
-1. Open [this repository with Codespaces](https://codespaces.new/MicrosoftDocs/mslearn-copilot-codespaces-javascript?quickstart=1)
+1. Open [this repository with Codespaces](https://codespaces.new/MrBrayan/mslearn-copilot-codespaces-javascript?quickstart=1)
 
 ## 💪🏽 Exercise
 
@@ -20,15 +20,15 @@ Customize the portfolio with your own links. Go to `src/App.jsx` and update the 
 
 ```javascript
 const siteProps = {
-  name: "Alexandrie Grenier",
-  title: "Web Designer & Content Creator",
-  email: "alex@example.com",
-  gitHub: "microsoft",
-  instagram: "microsoft",
-  linkedIn: "satyanadella",
+  name: "Brayan Novoa",
+  title: "Java full stack Developer, Web Designer & Content Creator",
+  email: "bnovoa.linux@gmail.com",
+  gitHub: "MrBrayan",
+  instagram: "Codeneitor",
+  linkedIn: "bnovoalinux",
   medium: "",
-  twitter: "microsoft",
-  youTube: "Code",
+  twitter: "",
+  youTube: "",
 };
 ```
 
